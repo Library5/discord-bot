@@ -1,1 +1,1 @@
-__init__.py
+# Cogs Package
